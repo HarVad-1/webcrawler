@@ -1,1 +1,1 @@
-# webcrawler
+I developed a web crawler that automatically browses the internet to extract and index data from web pages. It follows links, collects information, and helps with tasks like data mining, SEO analysis, and security assessments. I used Python, BeautifulSoup, and Scrapy to enhance its efficiency in identifying vulnerabilities and indexing web content.
